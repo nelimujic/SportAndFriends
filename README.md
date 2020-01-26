@@ -5,10 +5,12 @@ The aim of the application is to practise sport with friends. The SportAndFriend
 
 It is possible to:
 
--  see a list of activities available
+-  see a list of available activities
 -  see the activities on Map
 -  add events to the Calendar
--  see the other users registered with the application and add them as friends (or delete them).
+-  see the list of friends
+-  see the other users registered with the application and add them as friends (or delete them)
+-  search for new users and friends
 
 The daily goal is to walk 10000 steps, after that an animated emoji will cross the screen.
 
