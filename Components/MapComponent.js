@@ -30,7 +30,6 @@ export default class MapScreen extends Component {
 								coordinate={{ latitude: activity.lat, longitude: activity.lon }}
 								key={activity.name}>
 								<MapView.Callout
-								//onPress={() => articles.loadArticleInBrowser(article.pageid)}
 								>
 								
 
